@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    font-family: Roboto, Arial, sans-serif;
+}
+/* This is the header (it's red) */
+header{
+    background-color: #000000;
+    width:600px;
+    margin: 0 auto 0 auto;
+    padding: 32px 16px 32px 16px;
+    /* border: solid 10px #11efef; */
+}
+h1{
+    font-size:32px;
+    line-height: 38px;
+    font-family: roboto-condensed, Arial, sans-serif;
+    color:#FFFFFF;
+}
+header p{
+    color: #CCCCCC;
+    margin: 0 0 8px 0;
+}
+a{
+    color:#0192d3;
+    text-decoration: none;
+}
+main{
+    /* background-color: green; */
+    width:600px;
+    /* height:1500px; */
+    margin: 0 auto 0 auto;
+}
+main p{
+    /* color:red; */
+    font-size:18px;
+    line-height: 24px;
+    font-weight: lighter;
+    margin: 0 0 16px 0;
+}
+main img{
+    width:100%;
+}
+footer{
+    background-color: #000000;
+    width: 600px;
+    /* height:300px; */
+    margin: 0 auto 0 auto;
+    padding: 32px 16px 32px 16px;
+}
+footer h2{
+    color:#FFFFFF;
+}
+footer p{
+
+}
+
+
+
+
+
+
